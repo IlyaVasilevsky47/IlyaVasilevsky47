@@ -6,9 +6,7 @@ I've been interested in programming since I was a schoolboy. I attended courses 
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
-https://i.imgur.com/fayyeqx.png
-https://imgur.com/a/wHs46AH
-<img src="https://i.imgur.com/fayyeqx.png" alt="Image">
+<img style="float: right;" src="https://i.imgur.com/fayyeqx.png" alt="Image">
 
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

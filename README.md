@@ -21,6 +21,8 @@ I like working with Python code, as it is one of the most popular and widely use
 # Longest streak stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaVasilevsky47)](https://git.io/streak-stats)
 
+# Languages Card 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
 
 
 <!--

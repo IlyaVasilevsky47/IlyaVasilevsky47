@@ -24,6 +24,9 @@ I like working with Python code, as it is one of the most popular and widely use
 # Languages Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
 
+# GitHub Stats Card 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats)
+
 
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

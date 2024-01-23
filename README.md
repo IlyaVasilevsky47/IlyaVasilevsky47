@@ -1,6 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi there, I'm Ilya<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello everyone, my name is Ilya 👋</h1>
+<!--
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+-->
 
 # Hi there, I'm [Ilya](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student, IT news writer from Russia 🇷🇺

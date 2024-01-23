@@ -8,6 +8,9 @@ I like working with Python code, as it is one of the most popular and widely use
 
 <img style="float: right;" src="https://i.imgur.com/fayyeqx.png" width="200" height="100" alt="Image">
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

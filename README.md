@@ -15,8 +15,14 @@ I like working with Python code, as it is one of the most popular and widely use
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Statistics
+# GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
+
+# Longest streak stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaVasilevsky47)](https://git.io/streak-stats)
+
+
+
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

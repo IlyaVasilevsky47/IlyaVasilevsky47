@@ -6,7 +6,7 @@ I've been interested in programming since I was a schoolboy. I attended courses 
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
-<img style="float: right;" src="https://i.imgur.com/fayyeqx.png" width="200" height="100" alt="Image">
+<img style="float: right;" src="https://i.imgur.com/fayyeqx.png" alt="Image">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

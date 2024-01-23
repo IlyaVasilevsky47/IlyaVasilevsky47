@@ -1,11 +1,8 @@
-### Hi there 👋
-<h1 align="center">Hello everyone, my name is Ilya 👋</h1>
+<h1 align="center">Hi there, I'm Ilya 👋</h1>
 <!--
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 -->
 
-# Hi there, I'm [Ilya](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
 
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

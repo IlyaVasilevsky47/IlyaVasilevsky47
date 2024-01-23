@@ -15,7 +15,8 @@ I like working with Python code, as it is one of the most popular and widely use
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+# Statistics
+[![trophy](https://github-profile-trophy.vercel.app/?IlyaVasilevsky47=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

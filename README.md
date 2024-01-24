@@ -3,7 +3,7 @@
 
 <p><img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" width="60%" height="60%" alt="ilyavasilevsky47"></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
+<p>&nbsp;<img width="60%" height="60%" align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
 
 <p><img align="left" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
 

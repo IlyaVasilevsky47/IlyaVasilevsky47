@@ -7,7 +7,7 @@ I've been interested in programming since I was a schoolboy. I attended courses 
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)

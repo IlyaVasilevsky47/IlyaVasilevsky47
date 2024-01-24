@@ -16,33 +16,10 @@ I like working with Python code, as it is one of the most popular and widely use
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Trophy
+## Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
-
-## Longest streak stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaVasilevsky47)](https://git.io/streak-stats)
-
-## Languages Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
-
-## GitHub Stats Card 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats)
-
-Большой (large):  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats) 
 [![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaVasilevsky47&theme=github-dark)](https://github.com/IlyaVasilevsky47/github-readme-activity-graph)
-<!--
-**IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

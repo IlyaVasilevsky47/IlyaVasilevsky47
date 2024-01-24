@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Ilya 👋</h1>
-<!--
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
--->
+
+
 I've been interested in programming since I was a schoolboy. I attended courses on website creation and studied HTML, used JavaScript. In high school, he began studying Java on his own. During my studies at the college, I became interested in Python. I was offered to take courses in this language. I agreed and started learning this language.
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.

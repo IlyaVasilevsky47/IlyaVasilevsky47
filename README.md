@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">A programmer passionate about Python programming from Russia</h3>
 
-<p><img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" width="60%" height="60%" alt="Image"></p>
+<p><img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" width="60%" height="60%" alt="ilyavasilevsky47"></p>
 
 <p>&nbsp;<img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
 

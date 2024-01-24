@@ -16,7 +16,7 @@ I like working with Python code, as it is one of the most popular and widely use
 ## GutHub Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47&theme=gruvbox)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
 
-## Status:
+## Profile:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaVasilevsky47&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaVasilevsky47&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaVasilevsky47&theme=solarized_dark)

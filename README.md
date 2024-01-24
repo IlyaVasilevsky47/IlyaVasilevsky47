@@ -30,17 +30,8 @@ I like working with Python code, as it is one of the most popular and widely use
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaVasilevsky47&theme=github-dark)](https://github.com/IlyaVasilevsky47/github-readme-activity-graph)
 
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaVasilevsky47&theme=solarized_dark)
-
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaVasilevsky47&theme=solarized_dark)
-
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaVasilevsky47&theme=solarized_dark)
-
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaVasilevsky47&theme=solarized_dark)
-
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlyaVasilevsky47&theme=solarized_dark)

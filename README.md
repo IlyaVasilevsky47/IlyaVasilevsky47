@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
+
+___
+
 <h3 align="center">A programmer passionate about Python programming from Russia</h3>
 
 ![Image](https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png)

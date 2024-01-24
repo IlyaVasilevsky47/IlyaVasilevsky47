@@ -19,7 +19,7 @@ I like working with Python code, as it is one of the most popular and widely use
 ## [Codewars Profile](https://www.codewars.com/users/IlyaVasilevsky47): 
 [![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
 
-## Activity:
+## Status:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaVasilevsky47&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaVasilevsky47&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaVasilevsky47&theme=solarized_dark)

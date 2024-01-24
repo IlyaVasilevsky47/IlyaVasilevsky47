@@ -23,6 +23,8 @@ I like working with Python code, as it is one of the most popular and widely use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
 
 
-## Codewars [Profile](https://www.codewars.com/users/IlyaVasilevsky47): 
+## [Codewars Profile](https://www.codewars.com/users/IlyaVasilevsky47): 
 [![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
+
+## Activity:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaVasilevsky47&theme=github-dark)](https://github.com/IlyaVasilevsky47/github-readme-activity-graph)

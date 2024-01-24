@@ -7,7 +7,7 @@ I've been interested in programming since I was a schoolboy. I attended courses 
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
-# Languages and Tools:
+## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -16,16 +16,16 @@ I like working with Python code, as it is one of the most popular and widely use
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# GitHub Trophy
+## GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
 
-# Longest streak stats 
+## Longest streak stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaVasilevsky47)](https://git.io/streak-stats)
 
-# Languages Card 
+## Languages Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
 
-# GitHub Stats Card 
+## GitHub Stats Card 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats)
 
 Большой (large):  

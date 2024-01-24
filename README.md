@@ -1,6 +1,5 @@
-<h1 align="center">Привет 👋, я Илья</h1>
-___
-<h3 align="center">Программист, увлеченный программированием на Python из России</h3>
+<h1 align="center">Hi 👋, I'm Ilya</h1>
+<h3 align="center">A programmer passionate about Python programming from Russia</h3>
 
 I've been interested in programming since I was a schoolboy. I attended courses on website creation and studied HTML, used JavaScript. In high school, he began studying Java on his own. During my studies at the college, I became interested in Python. I was offered to take courses in this language. I agreed and started learning this language.   
 <img style="float: center;" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" width="60%" height="60%" alt="Image">

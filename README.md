@@ -30,6 +30,7 @@ I like working with Python code, as it is one of the most popular and widely use
 Большой (large):  
 [![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaVasilevsky47&theme=github-dark)](https://github.com/IlyaVasilevsky47/github-readme-activity-graph)
 <!--
 **IlyaVasilevsky47/IlyaVasilevsky47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

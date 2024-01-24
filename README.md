@@ -22,5 +22,3 @@ I like working with Python code, as it is one of the most popular and widely use
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaVasilevsky47&theme=solarized_dark)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyavasilevsky47&show_icons=true&locale=en&layout=compact" alt="ilyavasilevsky47" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyavasilevsky47&show_icons=true&locale=en" alt="ilyavasilevsky47" /></p>

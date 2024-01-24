@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">A programmer passionate about Python programming from Russia</h3>
 
-<p><img align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" width="60%" height="60%" alt="ilyavasilevsky47"></p>
-
-<p>&nbsp;<img width="60%" height="60%" align="center" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
-
-<p><img align="left" src="https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png" alt="ilyavasilevsky47" /></p>
+![Image](https://github.com/IlyaVasilevsky47/IlyaVasilevsky47/blob/main/IlyaVasilevsky47_profile.png)
 
 I've been interested in programming since I was a schoolboy. I attended courses on website creation and studied HTML, used JavaScript. In high school, he began studying Java on his own. During my studies at the college, I became interested in Python. I was offered to take courses in this language. I agreed and started learning this language.   
 

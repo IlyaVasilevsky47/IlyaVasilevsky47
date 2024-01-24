@@ -5,6 +5,8 @@
  
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
+[![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
+
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -15,9 +17,6 @@ I like working with Python code, as it is one of the most popular and widely use
 
 ## GutHub Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47&theme=gruvbox)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
-
-## [Codewars Profile](https://www.codewars.com/users/IlyaVasilevsky47): 
-[![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
 
 ## Status:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaVasilevsky47&theme=solarized_dark)

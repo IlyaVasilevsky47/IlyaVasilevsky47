@@ -7,7 +7,7 @@ I've been interested in programming since I was a schoolboy. I attended courses 
 
 I like working with Python code, as it is one of the most popular and widely used programming languages. Python has a simple and understandable syntax, which makes it ideal for beginners in programming.
 
-## Languages and Tools
+## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -19,8 +19,8 @@ I like working with Python code, as it is one of the most popular and widely use
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlyaVasilevsky47&theme=gruvbox)](https://github.com/IlyaVasilevsky47/github-profile-trophy)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlyaVasilevsky47)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaVasilevsky47&layout=compact)](https://github.com/IlyaVasilevsky47/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVasilevsky47)](https://github.com/IlyaVasilevsky47/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/IlyaVasilevsky47/badges/large)](https://www.codewars.com/users/IlyaVasilevsky47) 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaVasilevsky47&theme=github-dark)](https://github.com/IlyaVasilevsky47/github-readme-activity-graph)
